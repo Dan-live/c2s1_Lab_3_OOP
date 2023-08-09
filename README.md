@@ -1,4 +1,4 @@
-# k2s1_Lab_3_OOP
+# c2s1_Lab_3_OOP
 A mathematical vector of any dimension and with any type of
 element (specified by the template parameters).
 Implement the following operations:
